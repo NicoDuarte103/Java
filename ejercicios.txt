@@ -1,0 +1,20 @@
+Ejercicio1: Vehiculos
+Crea una clase Vehiculo con atrributos marca,modelo,y año luego crea clases coche y moto que
+heredn d vehiculo agrega atibutos y metodos especificos de cada clase
+
+ejercicio 2: figuras geomticas
+Creera una clase figura con atibutos color y arrea luego crreea clases circulo,rectangulo y tiangulo
+quee hererdnde figura agrega tibutos y metodos sepecificos para cada clase
+
+ejercicio3: empleados
+Crea una clase empleado con tibutos nombr,apellido y salario lugo cera clases gerente y desarrollado
+que herdn d eempleado agrega atrributos y mtodos sepecificos para cada clase
+
+ejercicio4 animales:
+crae un clase animal con tibutos nomb y dad lugo cera clases mamifo y v qu hdn d animal
+agga tibutos y mtodos spcificos par cada clase
+
+ejercicio5 productos:
+crea una clase producto con atributos nombre y precio luego crea clases
+electronico y alimento que hereden producto agrega atributos y metodos eespecificos de cada clase
+
